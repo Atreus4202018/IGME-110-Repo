@@ -2,7 +2,7 @@
 
 ---
 
-## 10 PlayStation games that are now out on PC
+## 11 PlayStation games that are now out on PC
 -  [Ghost of Tsushima](https://store.steampowered.com/app/2215430/Ghost_of_Tsushima_DIRECTORS_CUT/?snr=1_1056_4_creator_curator-tabs&curator_clanid=40425349)
 -  [Spider-Man](https://store.steampowered.com/app/1817070/Marvels_SpiderMan_Remastered/?snr=1_1056_ajaxgetfilteredrecommendations_creator_curator-tabs&curator_clanid=40425349)
 -  [Spider-Man: Miles Morales](https://store.steampowered.com/app/1817190/Marvels_SpiderMan_Miles_Morales/?snr=1_1056_4_creator_curator-tabs&curator_clanid=40425349)
@@ -13,8 +13,13 @@
 -  [Horizon: Forbidden West](https://store.steampowered.com/app/2420110/Horizon_Forbidden_West_Complete_Edition/?snr=1_1056_ajaxgetfilteredrecommendations_creator_curator-tabs&curator_clanid=40425349)
 -  [Uncharted 4 + Lost Legacy](https://store.steampowered.com/app/1659420/UNCHARTED_Legacy_of_Thieves_Collection/?snr=1_1056_ajaxgetfilteredrecommendations_creator_curator-tabs&curator_clanid=40425349)
 -  [Returnal](https://store.steampowered.com/app/1649240/Returnal/?snr=1_1056_4_creator_curator-tabs&curator_clanid=40425349)
+-  [Detroit: Become Human](https://store.steampowered.com/app/1222140/Detroit_Become_Human/) 
 
+---
 
+## PlayStation games that will soon be out on PC  
+- [Until Dawn](https://store.steampowered.com/app/2172010/Until_Dawn/?snr=1_1056_ajaxgetfilteredrecommendations_creator_curator-tabs&curator_clanid=40425349)
+- [God of War Ragnarok](https://store.steampowered.com/app/2322010/God_of_War_Ragnarok/?snr=1_1056_ajaxgetfilteredrecommendations_creator_curator-tabs&curator_clanid=40425349)
 
 
  
