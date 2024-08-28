@@ -25,5 +25,5 @@
  
 ## level 2 heading 
 
-![an image](md-images/cassie.jpg)
+![an image] (md-images/cassie.jpg)
  
